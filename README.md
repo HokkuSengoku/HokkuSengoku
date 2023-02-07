@@ -1,4 +1,4 @@
-
+###
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -18,10 +18,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/gPBWuSCMJO5KepMzTw/giphy.gif" width="600" height="300"/>
+</div>
+
+### :man_technologist: About Me :
+I am a beginner Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
 
 <!--
 **HokkuSengoku/HokkuSengoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://media.giphy.com/media/pOEbLRT4SwD35IELiQ/giphy.gif
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
